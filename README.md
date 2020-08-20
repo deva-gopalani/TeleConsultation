@@ -10,4 +10,4 @@ The key features of the app are as follows:
 * Handling of offline patients also considered
 * Functionality to do a video call also implemented with the help of Google Duo
 
-If you would like to check out this project then please connect with me on devashishmgopalani@gmail.com. I have kept the repository private.
+If you would like to check out this project then please connect with me on devashishmgopalani@gmail.com.
