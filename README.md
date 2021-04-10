@@ -10,4 +10,5 @@ The key features of the app are as follows:
 * Handling of offline patients also considered
 * Functionality to do a video call also implemented with the help of Google Duo
 
+The patients end of the application is based on a Telegram bot.
 If you would like to check out this project then please connect with me on devashishmgopalani@gmail.com.
